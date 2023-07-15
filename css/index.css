@@ -1,0 +1,44 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #E4FDE1;
+ }
+ .name{
+    width: 100%;
+    height: 300px;
+    background: #9F87AF;
+ }
+ .name .content{
+    width: 500%;
+    height: 50%;
+    position: absolute;
+ }
+ .name .content .title-1 {
+    color: #342E37;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+}
+.nav-responsive{
+    background-color: #1CB698;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none;
+}
+.image{
+    width: 400px;
+    height: 180px;
+    position: ;
+    
+}
+.p1{
+    color: #6E2594;
+    font-family: 'Kanit', sans-serif;
+    font-weight: bolder;
+    font-size: 16px;
+    text-align: center;
+}
